@@ -1,0 +1,17 @@
+h1. "DXF Drawing Exchange Format - Library .NET C#"
+
+h2. About
+
+AutoCAD DXF (Drawing Interchange Format, or Drawing Exchange Format) is a CAD data file format 
+developed by Autodesk for enabling data interoperability between AutoCAD and other programs.
+
+DXFsharp is a .NET c# framework to create, read and update DXF Files.
+
+This repository is for DXFsharp developers. All users should download DXFsharp from our official site.
+
+h2. How to help
+
+* Find and report bugs
+* Fork our repository and start writing code!
+* Write tests
+* Write documentation
